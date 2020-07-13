@@ -10,4 +10,8 @@ require('../../js/tooltip.js')
 require('../../js/popover.js')
 require('../../js/scrollspy.js')
 require('../../js/tab.js')
+<<<<<<< HEAD
 require('../../js/affix.js')
+=======
+require('../../js/affix.js')
+>>>>>>> origin
